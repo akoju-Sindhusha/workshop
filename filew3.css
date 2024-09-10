@@ -79,3 +79,10 @@ h1{
     background-repeat: no-repeat;
     background-size: cover;
 }
+footer{
+    height: 10vh;
+    text-align: center;
+    color: white;
+    background-color: rgb(66, 62, 62);
+    padding: 3%;
+}
